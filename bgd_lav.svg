@@ -52,15 +52,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="304.70647"
-     inkscape:cy="1016.2708"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-792.4903"
+     inkscape:cy="145.57439"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
-     inkscape:window-x="-9"
+     inkscape:window-x="1271"
      inkscape:window-y="-9"
      inkscape:window-maximized="1" />
   <metadata
@@ -79,6 +79,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4487"
+       width="213.93451"
+       height="298.6012"
+       x="0"
+       y="-1.6011904" />
     <rect
        style="opacity:1;vector-effect:none;fill:url(#linearGradient4493);fill-opacity:1;fill-rule:nonzero;stroke:#abefff;stroke-width:0.46086168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4485"
