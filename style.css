@@ -61,7 +61,7 @@
 }
 .maintext {
    width: 50%;
-   justify-content: center;
+   display: inline-block;
 }
  /* Responsive for small screens */
 @media screen and (max-width: 600px) {
