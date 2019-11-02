@@ -59,6 +59,9 @@
   color: white;
   font-weight: bold;
 }
+.maintext {
+   width: 50%;
+}
  /* Responsive for small screens */
 @media screen and (max-width: 600px) {
   .navbar a {
