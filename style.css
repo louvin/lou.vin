@@ -63,14 +63,8 @@
    width: 50%;
    display: inline-block;
 }
-.h1 {
-   margin-bottom: 0px
-}
-.h2 {
-   margin-bottom: 0px
-}
-.h2 {
-   margin-bottom: 0px
+p {
+   margin-top: 0px;
 }
  /* Responsive for small screens */
 @media screen and (max-width: 600px) {
