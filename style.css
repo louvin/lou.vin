@@ -1,41 +1,41 @@
 /* style.css */
 
-   body {
+body {
     background-image: url(bgd_lav.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #997fb8;
-   }
-   .header {
+}
+.header {
     background-color: 4c4c4c;
     width: 100%;
-   }
-   .smallpicdisplay {
+}
+.smallpicdisplay {
     display: flex;
     justify-content: center;
     max-width:600px;
     margin: auto;
-   }
-   .bigpicdisplay {
+}
+.bigpicdisplay {
     display: flex;
     justify-content: center;
     max-width:850px;
     margin: auto;
     display: none;
-   }
-   .pad-top {
+}
+.pad-top {
     width: 100%;
     padding-bottom: 11.4%;
     background: url(swirly_royalty_free.svg);
     background-repeat: no-repeat;
     background-size: cover;
-   }
-   .container {
+}
+.container {
     margin: 0 auto;
     text-align: center;
     width: 100%;
     padding: 8px 0px;
-   }
+}
 .navbar {
   margin: 0 auto;
   width: 80%;
@@ -67,7 +67,12 @@
    text-align: left;
    width: 80%;
 }
-
+a {
+   color: #6000a3;
+}
+a:visited {
+   color: #99bbff;
+}
 p {
    margin-top: 0px;
 }
