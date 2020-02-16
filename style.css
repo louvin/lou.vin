@@ -65,6 +65,7 @@ body {
 }
 a {
    color: #267326;
+   font-weight: bold;
 }
 p {
    margin-top: 0px;
