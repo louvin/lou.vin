@@ -63,9 +63,12 @@ body {
    width: 50%;
    display: inline-block;
 }
+.listcont {
+   text-align: center;
+   width: 60%;
+}
 .listdiv {
    text-align: left;
-   width: 60%;
 }
 a {
    color: #4dff88;
