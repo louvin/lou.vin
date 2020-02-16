@@ -59,6 +59,7 @@ body {
   font-weight: bold;
 }
 .maintext {
+   font-size: large;
    font-family: "Unna", serif;
    width: 50%;
    display: inline-block;
