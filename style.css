@@ -112,6 +112,9 @@ h4 {
  }
 }
 @media (pointer:none), (pointer:coarse) {
+    body {
+        font-size: large;
+    }
     .smallpicdisplay {
     display: flex;
     justify-content: center;
