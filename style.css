@@ -80,9 +80,11 @@ h4 {
 
  /* Responsive for small screens */
 @media screen and (max-width: 600px) {
-    body {
-        font-size: large;
-    }
+   .maintext {
+     font-size: large;
+     width: 100%;
+     display: inline-block;
+  }
   .navbar a {
     float: none;
     display: block;
@@ -112,9 +114,11 @@ h4 {
  }
 }
 @media (pointer:none), (pointer:coarse) {
-    body {
-        font-size: large;
-    }
+   .maintext {
+     font-size: large;
+     width: 100%;
+     display: inline-block;
+  }
     .smallpicdisplay {
     display: flex;
     justify-content: center;
